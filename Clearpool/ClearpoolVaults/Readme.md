@@ -1,1 +1,1 @@
-Clearpool Vaults Audit Report
+Clearpool Credit Vaults Audit Report
