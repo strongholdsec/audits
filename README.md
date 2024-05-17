@@ -2,6 +2,7 @@
 
 | Client  | Project                            | Chain         | Language     | Category      | End Date           | Report  |
 |---------|------------------------------------|---------------|--------------|---------------|--------------------|---------|
+| Truflation | Truflation Contracts | `Ethereum` | `Solidity` | `Services` | May 16, 2024 | [link](https://github.com/strongholdsec/audits/blob/main/Truflation/TruflationContracts/Truflation%20Contracts%20Security%20Audit%20Report.pdf)
 | Clearpool | Credit Vaults | `Ethereum` | `Solidity` | `Uncollateralized lending` | May 02, 2024 | [link](https://github.com/strongholdsec/audits/blob/main/Clearpool/CreditVaults/Clearpool%20Credit%20Vaults%20Security%20Audit%20Report.pdf)
 | Saakuru Labs | SKR Token | `Saakuru` | `Solidity` | `Services` | April 25, 2024 | [link](https://github.com/strongholdsec/audits/blob/main/SaakuruLabs/SKRToken/Saakuru%20Labs%20SKR%20Token%20Audit%20Report.pdf)
 | SatsDao | Satoshi | `Base` | `Solidity` | `CDP` | April 20, 2024 | [link](https://github.com/strongholdsec/audits/blob/main/SatsDao/satoshi/SatsDao%20Satoshi%20Audit%20Report.pdf)
